@@ -55,3 +55,4 @@ python -m source --multirun datasz=100p model=comtf dataset=ABIDE repeat_time=5 
 ## Acknowledgement
 
 We built Com-BrainTF on top of [BNT](https://github.com/Wayfear/BrainNetworkTransformer/tree/main)
+# NewComBrain
